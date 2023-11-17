@@ -3,7 +3,7 @@ using webapifoto.Models;
 
 namespace webapifoto.Controllers
 {
-    [Route("api/controller")]
+    [Route("api/[controller]")]
     [ApiController]
     public class FotoController : Controller
     {

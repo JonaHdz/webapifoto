@@ -1,0 +1,11 @@
+C:\Users\jon10\Desktop\git-apifoto\webapifoto\webapifoto\webapifoto\bin\Release\net6.0\publish\webapifoto.exe
+C:\Users\jon10\Desktop\git-apifoto\webapifoto\webapifoto\webapifoto\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\jon10\Desktop\git-apifoto\webapifoto\webapifoto\webapifoto\bin\Release\net6.0\publish\appsettings.json
+C:\Users\jon10\Desktop\git-apifoto\webapifoto\webapifoto\webapifoto\bin\Release\net6.0\publish\webapifoto.dll
+C:\Users\jon10\Desktop\git-apifoto\webapifoto\webapifoto\webapifoto\bin\Release\net6.0\publish\webapifoto.deps.json
+C:\Users\jon10\Desktop\git-apifoto\webapifoto\webapifoto\webapifoto\bin\Release\net6.0\publish\webapifoto.runtimeconfig.json
+C:\Users\jon10\Desktop\git-apifoto\webapifoto\webapifoto\webapifoto\bin\Release\net6.0\publish\webapifoto.pdb
+C:\Users\jon10\Desktop\git-apifoto\webapifoto\webapifoto\webapifoto\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\jon10\Desktop\git-apifoto\webapifoto\webapifoto\webapifoto\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jon10\Desktop\git-apifoto\webapifoto\webapifoto\webapifoto\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jon10\Desktop\git-apifoto\webapifoto\webapifoto\webapifoto\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

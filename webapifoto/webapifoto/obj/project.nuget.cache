@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mjpY+GFLqvrLOcTfyBzT9eWuhWRi+oxt81e05R1SpkkOAWIUJwd5f/wlMneNtidEK45p+g2kke3nb230wi+5+A==",
+  "dgSpecHash": "vB3gqPnep2CfIjtQe6Er841wQnkchIkQsMNmDQaW3kP+yBzNuWiqxNY7SYv6x4ZxY0/IYq2sZgD0nICnJC6zyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jon10\\Desktop\\cosas que revisar del semestre\\webapifoto\\webapifoto\\webapifoto.csproj",
+  "projectFilePath": "C:\\Users\\jon10\\Desktop\\git-apifoto\\webapifoto\\webapifoto\\webapifoto\\webapifoto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jon10\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\jon10\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

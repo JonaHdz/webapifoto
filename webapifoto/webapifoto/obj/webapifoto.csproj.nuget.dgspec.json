@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jon10\\Desktop\\cosas que revisar del semestre\\webapifoto\\webapifoto\\webapifoto.csproj": {}
+    "C:\\Users\\jon10\\Desktop\\git-apifoto\\webapifoto\\webapifoto\\webapifoto\\webapifoto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jon10\\Desktop\\cosas que revisar del semestre\\webapifoto\\webapifoto\\webapifoto.csproj": {
+    "C:\\Users\\jon10\\Desktop\\git-apifoto\\webapifoto\\webapifoto\\webapifoto\\webapifoto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jon10\\Desktop\\cosas que revisar del semestre\\webapifoto\\webapifoto\\webapifoto.csproj",
+        "projectUniqueName": "C:\\Users\\jon10\\Desktop\\git-apifoto\\webapifoto\\webapifoto\\webapifoto\\webapifoto.csproj",
         "projectName": "webapifoto",
-        "projectPath": "C:\\Users\\jon10\\Desktop\\cosas que revisar del semestre\\webapifoto\\webapifoto\\webapifoto.csproj",
+        "projectPath": "C:\\Users\\jon10\\Desktop\\git-apifoto\\webapifoto\\webapifoto\\webapifoto\\webapifoto.csproj",
         "packagesPath": "C:\\Users\\jon10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jon10\\Desktop\\cosas que revisar del semestre\\webapifoto\\webapifoto\\obj\\",
+        "outputPath": "C:\\Users\\jon10\\Desktop\\git-apifoto\\webapifoto\\webapifoto\\webapifoto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jon10\\AppData\\Roaming\\NuGet\\NuGet.Config",
